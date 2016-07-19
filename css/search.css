@@ -1,0 +1,36 @@
+.search-wrapper {
+	width: 100%;
+	height: 72px;
+	background: #0372bc;
+}
+.search-input {
+	max-width: 1200px;
+	margin: auto;
+	height: 72px;
+}
+.search-input .fa {
+	color: #fff;
+}
+.search-input .icon {
+	height: 72px;
+	width: 72px;
+	float: left;
+	padding:24px;
+}
+.search-input .icon.close {
+	float: right;
+	opacity: .5;
+}
+.search-input .input-group {
+	border-bottom: 1px solid #fff;
+	width: 100%;
+	outline: none;
+	float: left;
+	margin-top: 20px;
+}
+.search-input .input-group .form-control {
+	background:transparent;
+	border: none;
+	font-size: 18px;
+	color: #fff;
+}
