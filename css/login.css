@@ -1,0 +1,56 @@
+.login {
+	padding-top: 80px;
+	max-width: 1000px !important;
+	margin: auto;
+	height: auto;
+}
+.login .btn.btn-default {
+	background: #f9f9f9;
+	border: 1px solid #e3e3e3;
+	outline: none;
+}
+.login .row {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.login-wrapper {
+    background-color: #f7f7f7;
+    min-height: 1022px;
+}
+.login-left, .login-right {
+	background: #fff;
+	border: 1px solid #e3e3e3;
+	padding: 20px 40px;
+	height: 600px;
+}
+.login-right a{
+	text-decoration: underline;
+}
+.password-reset {
+	margin-top: 20px;
+	padding: 20px;
+	background:#f9f9f9;
+	border: 1px solid #e3e3e3;
+}
+.password-reset-bar {
+    position: absolute;
+    background-color: #f9f9f9;
+    height: 25px;
+    margin-top: -45px;
+    margin-left: 64px;
+    width: 132px;
+    border-left: 1px solid #e3e3e3;
+    border-right: 1px solid #e3e3e3;
+}
+@media screen and (max-width: 990px) {
+	.login-break {
+		width: 50%;
+		float: left;
+	}
+}
+
+@media screen and (max-width: 640px) {
+	.login-break {
+		width: 100%;
+	}
+}

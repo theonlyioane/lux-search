@@ -1,0 +1,65 @@
+/*******************************************
+PADDING HELPER CLASSES
+/*******************************************/
+
+/* padding 0 */
+.pad-0 { padding: 0px !important; }
+.pad-t-0 { padding-top: 0px !important; }
+.pad-r-0 { padding-right: 0px !important; }
+.pad-b-0 { padding-bottom: 0px !important; }
+.pad-l-0 { padding-left: 0px !important; }
+
+/* padding 20 */
+.pad-20 { padding: 20px !important; }
+.pad-t-20 { padding-top: 20px !important; }
+.pad-r-20 { padding-right: 20px !important; }
+.pad-b-20 { padding-bottom: 20px !important; }
+.pad-l-20 { padding-left: 20px !important; }
+
+/* padding 30 */
+.pad-30 { padding: 30px !important; }
+.pad-t-30 { padding-top: 30px !important; }
+.pad-r-30 { padding-right: 30px !important; }
+.pad-b-30 { padding-bottom: 30px !important; }
+.pad-l-30 { padding-left: 30px !important; }
+
+/* padding 40 */
+.pad-40 { padding: 40px !important; }
+.pad-t-40 { padding-top: 40px !important; }
+.pad-r-40 { padding-right: 40px !important; }
+.pad-b-40 { padding-bottom: 40px !important; }
+.pad-l-40 { padding-left: 40px !important; }
+
+/*******************************************
+MARGIN HELPER CLASSES
+/*******************************************/
+
+/* margin 20 */
+.m-20 { margin: 20px !important; }
+.m-t-20 { margin-top: 20px !important; }
+.m-r-20 { margin-right: 20px !important; }
+.m-b-20 { margin-bottom: 20px !important; }
+.m-l-20 { margin-left: 20px !important; }
+
+
+/* margin 30 */
+.m-30 { margin: 30px !important; }
+.m-t-30 { margin-top: 30px !important; }
+.m-r-30 { margin-right: 30px !important; }
+.m-b-30 { margin-bottom: 30px !important; }
+.m-l-30 { margin-left: 30px !important; }
+
+
+/* margin 40 */
+.m-40 { margin: 40px !important; }
+.m-t-40 { margin-top: 40px !important; }
+.m-r-40 { margin-right: 40px !important; }
+.m-b-40 { margin-bottom: 40px !important; }
+.m-l-40 { margin-left: 40px !important; }
+
+/* margin 40 */
+.m-80 { margin: 80px !important; }
+.m-t-80 { margin-top: 80px !important; }
+.m-r-80 { margin-right: 80px !important; }
+.m-b-80 { margin-bottom: 80px !important; }
+.m-l-80 { margin-left: 80px !important; }
